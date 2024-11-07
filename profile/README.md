@@ -1,11 +1,3 @@
-<center>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Badge](https://img.shields.io/badge/Homepage-af0d53?style=for-the-badge)](https://byteshifters.com)&nbsp;&nbsp;&nbsp;
-  [![Badge](https://img.shields.io/badge/Blog-af0d53?style=for-the-badge)](https://blog.byteshifters.com)&nbsp;&nbsp;&nbsp;
-  [![Badge](https://img.shields.io/badge/Twitter-af0d53?style=for-the-badge)](https://twitter.com/ByteShifters)&nbsp;&nbsp;&nbsp;
-  [![Badge](https://img.shields.io/badge/Instagram-af0d53?style=for-the-badge)](https://instagram.com/ByteShifters)
-
-</center>
 
 
 
